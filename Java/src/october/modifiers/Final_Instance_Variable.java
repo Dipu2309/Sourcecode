@@ -6,7 +6,7 @@
   initialization explicitly and JVM won't provide any default values.
   whether we are using or not otherwise we will get compile time error.
  */
-package com.modifiers;
+package october.modifiers;
 
 public class Final_Instance_Variable {
 	final int i=10;
